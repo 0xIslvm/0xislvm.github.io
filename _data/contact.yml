@@ -22,7 +22,10 @@
 #- type: linkedin
 #  icon: 'fab fa-linkedin' # icons powered by <https://fontawesome.com/>
 #  noblank: true
-#   url:  ''                  # Fill with your Linkedin homepage
+#   url:  ''    
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/0xislvm/'               # Fill with your Linkedin homepage
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
