@@ -1,74 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-   <url>
-      <loc>https://0xislvm.github.io/</loc>
-      <lastmod>2026-03-26</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-   </url>
-
-   <url>
-      <loc>https://0xislvm.github.io/posts/phishing/</loc>
-      <lastmod>2026-03-22</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.9</priority>
-   </url>
-
-   <url>
-      <loc>https://0xislvm.github.io/posts/ch1-3/</loc>
-      <lastmod>2025-07-07</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>https://0xislvm.github.io/posts/ch-5/</loc>
-      <lastmod>2025-09-13</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>https://0xislvm.github.io/posts/Adversary-Simulation-and-DFIR-Threat-Hunting-Lab-using-Sysmon-and-Splunk/</loc>
-      <lastmod>2025-10-20</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>https://0xislvm.github.io/posts/ch-6/</loc>
-      <lastmod>2026-01-10</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>https://0xislvm.github.io/categories/</loc>
-      <lastmod>2026-03-26</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.6</priority>
-   </url>
-
-   <url>
-      <loc>https://0xislvm.github.io/tags/</loc>
-      <lastmod>2026-03-26</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.6</priority>
-   </url>
-
-   <url>
-      <loc>https://0xislvm.github.io/archives/</loc>
-      <lastmod>2026-03-26</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.6</priority>
-   </url>
-
-   <url>
-      <loc>https://0xislvm.github.io/about/</loc>
-      <lastmod>2026-03-26</lastmod>
-      <changefreq>yearly</changefreq>
-      <priority>0.5</priority>
-   </url>
-
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/posts/phishing/</loc>
+<lastmod>2026-03-22T10:21:07+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/posts/ch1-3/</loc>
+<lastmod>2025-07-07T05:23:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/posts/ch-5/</loc>
+<lastmod>2025-09-13T05:23:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/posts/Adversary-Simulation-and-DFIR-Threat-Hunting-Lab-using-Sysmon-and-Splunk/</loc>
+<lastmod>2025-10-20T05:23:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/posts/ch-6/</loc>
+<lastmod>2026-01-10T01:05:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/categories/</loc>
+<lastmod>2026-03-26T15:14:18+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/tags/</loc>
+<lastmod>2026-03-26T15:14:18+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/archives/</loc>
+<lastmod>2026-03-26T15:14:18+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+<lastmod>2026-03-26T15:14:18+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/phishing/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/malware-analysis/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/chapter-3/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/chapter-1/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/practical-malware-analysis-chapter-5/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/splunk/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/practical-malware-analysis-chapter-6/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/categories/eml/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/categories/pma/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/categories/dfir/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/categories/soc/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/googleb2858b898aa0b84f.html</loc>
+<lastmod>2026-03-26T15:12:09+02:00</lastmod>
+</url>
 </urlset>

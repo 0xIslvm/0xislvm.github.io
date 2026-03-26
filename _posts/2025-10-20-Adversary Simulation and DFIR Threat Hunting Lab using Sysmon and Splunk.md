@@ -4,7 +4,7 @@ title: Adversary Emulation & DFIR Threat Hunting Lab using Sysmon and Splunk
 description: Simulated Sliver-like activity (benign files) to generate telemetry for hunting and detection engineering.                         Create reproducible DFIR lab to practice detection and response using Sysmon + Splunk.
 categories: [DFIR, SOC]
 date: 2025-10-20 05:23:00 +0200
-tags: [Sysmon, Splunk, DFIR, Hunting, Chirpy]
+tags: [Splunk]
 pin: true
 math: true
 mermaid: true
