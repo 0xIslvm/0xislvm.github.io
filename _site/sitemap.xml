@@ -16,8 +16,15 @@
    </url>
 
    <url>
-      <loc>https://0xislvm.github.io/posts/ch-6/</loc>
-      <lastmod>2026-01-10</lastmod>
+      <loc>https://0xislvm.github.io/posts/ch1-3/</loc>
+      <lastmod>2025-07-07</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://0xislvm.github.io/posts/ch-5/</loc>
+      <lastmod>2025-09-13</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -25,6 +32,13 @@
    <url>
       <loc>https://0xislvm.github.io/posts/Adversary-Simulation-and-DFIR-Threat-Hunting-Lab-using-Sysmon-and-Splunk/</loc>
       <lastmod>2025-10-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://0xislvm.github.io/posts/ch-6/</loc>
+      <lastmod>2026-01-10</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -38,6 +52,13 @@
 
    <url>
       <loc>https://0xislvm.github.io/tags/</loc>
+      <lastmod>2026-03-26</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.6</priority>
+   </url>
+
+   <url>
+      <loc>https://0xislvm.github.io/archives/</loc>
       <lastmod>2026-03-26</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.6</priority>
