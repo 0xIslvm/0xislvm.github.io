@@ -16,12 +16,12 @@ timezone: Africa/Cairo
 
 title: 0xIslvm # the main title
 
-tagline: Malware Analyst | Reverse Engineer | DFIR # it will display as the sub-title
+tagline: Cyber Security Researcher # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Welcome to technical blog of Islam Essam Saeed, 
-  where I share insights, research, and practical knowledge in cybersecurity, 
-  malware analysis, digital forensics, and threat intelligence.
+  I am a Cyber Security Researcher specializing in Malware Analysis, Digital Forensics (DFIR),
+  Threat Hunting, and SIEM technologies like Splunk and QRadar.
+  This blog documents hands-on labs, malware reverse engineering, and real-world attack simulations.      
   
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
